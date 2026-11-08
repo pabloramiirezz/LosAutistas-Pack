@@ -4,10 +4,10 @@
   "packVersion": "prueba1",
   "minecraftVersion": "1.20.1",
   "minLauncherVersion": "1.0.0",
-  "changelogNote": "Primera versi\u00F3n publicada: 127 archivos.",
+  "changelogNote": "Primera versión publicada: 127 archivos.",
   "loader": {
     "type": "Forge",
-    "version": "forge"
+    "version": "47.4.28"
   },
   "server": {
     "name": "Los Autistas",
@@ -1647,7 +1647,7 @@
     },
     {
       "type": "mod",
-      "path": "mods/curios-forge-5.14.1\u002B1.20.1.jar",
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
       "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
       "size": 398066,
       "optional": false,
@@ -1661,7 +1661,7 @@
     },
     {
       "type": "mod",
-      "path": "mods/embeddium-0.3.31\u002Bmc1.20.1.jar",
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
       "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
       "size": 1320675,
       "optional": false,
