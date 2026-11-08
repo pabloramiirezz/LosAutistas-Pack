@@ -1,0 +1,1803 @@
+{
+  "packId": "pruebaso",
+  "packName": "Los Autistas Navidad 2.0",
+  "packVersion": "prueba1",
+  "minecraftVersion": "1.20.1",
+  "minLauncherVersion": "1.0.0",
+  "changelogNote": "Primera versi\u00F3n publicada: 127 archivos.",
+  "loader": {
+    "type": "Forge",
+    "version": "forge"
+  },
+  "server": {
+    "name": "Los Autistas",
+    "address": "1erconcortee.aternos.me:41763"
+  },
+  "theme": {
+    "primaryColor": "#8B1A1A",
+    "accentColor": "#D4AF37",
+    "backgroundColor": "#101216",
+    "backgroundImage": "",
+    "snow": false
+  },
+  "files": [
+    {
+      "type": "config",
+      "path": "config/alexsmobs.toml",
+      "sha256": "7c01df704a66653df7793e4c6a856815be283106df03765f196c89bd962d463c",
+      "size": 36192,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs.toml",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json",
+      "sha256": "df14afd6e1e96ace0dc8e4c71bc325e3baec8dbeaebf61f682561a70fc145f9d",
+      "size": 754,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/alligator_snapping_turtle_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/anaconda_spawns.json",
+      "sha256": "ca961946a7b3c6e9abcb1bb82bbf36e1f9ce01d11769a06a7fbff6351293ff5d",
+      "size": 1036,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/anaconda_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/anteater_spawns.json",
+      "sha256": "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
+      "size": 1166,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/anteater_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/bald_eagle_spawns.json",
+      "sha256": "f8b51a798bfa4b51e0ee8fb78c860ca5b2677583db10584792a0e1548f17d396",
+      "size": 2723,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/bald_eagle_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/banana_slug_spawns.json",
+      "sha256": "1d5d0ce4ef42e94f0361c41b4b2402b64e87f0b1b987e1f1b2f6b2ac377211a7",
+      "size": 1697,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/banana_slug_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/bison_spawns.json",
+      "sha256": "78e726ed002a31f5084a7b49fcce467c5623a046981d6c59d9ed7c4eb6cdbb1e",
+      "size": 1761,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/bison_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/blobfish_spawns.json",
+      "sha256": "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f",
+      "size": 146,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/blobfish_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/blue_jay_spawns.json",
+      "sha256": "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644",
+      "size": 4020,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/blue_jay_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/bone_serpent_spawns.json",
+      "sha256": "47eef91378d3d6455a911d58cc3afdbfcdda7fd49968a7921b22620faa8ff672",
+      "size": 257,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/bone_serpent_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/bunfungus_spawns.json",
+      "sha256": "5d5a9d2039b6df546b788f62cb376cc29312a7115a5553541652aad7259436a6",
+      "size": 486,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/bunfungus_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/cachalot_whale_beached_spawns.json",
+      "sha256": "73b8f83ddfa936642b38af1003e3c47eab6f089ad61612ee5181137409038f57",
+      "size": 642,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/cachalot_whale_beached_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/cachalot_whale_spawns.json",
+      "sha256": "fb901f1ea0bce7b9fb51dfaeb565539a3c1a9ee86bafb49caddac7ca1002e296",
+      "size": 893,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/cachalot_whale_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/caiman_spawns.json",
+      "sha256": "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753",
+      "size": 291,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/caiman_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/capuchin_monkey_spawns.json",
+      "sha256": "83b68d395236771ae9276f48b2988cfa9eb65e14dc41531b37a6b4e77c64859a",
+      "size": 1184,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/capuchin_monkey_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/catfish_spawns.json",
+      "sha256": "3c097d29c1f74807815d4c13e3586a76528ac3c104670ce95852bd3b62f9e16e",
+      "size": 1097,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/catfish_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/cave_centipede_spawns.json",
+      "sha256": "973b8ebc19fa04e02b050f28359ee6bffbae93367f49ecac10892f4a2c1dad7d",
+      "size": 2200,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/cave_centipede_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/cockroach_spawns.json",
+      "sha256": "97a67afb52f1398f2c55e2a74001e5b893394e28d3f0eb00695f049bdd19f204",
+      "size": 2085,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/cockroach_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/comb_jelly_spawns.json",
+      "sha256": "cf9ba87b0d2001543fe09d8f6a4c602c03644643a9bd49d1e9ca0b041ab4dc02",
+      "size": 414,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/comb_jelly_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/cosmaw_spawns.json",
+      "sha256": "8e1d05a9b4ab8b923ff4951ef391665f3bdd218d943152f6f1f57509786bc0f7",
+      "size": 371,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/cosmaw_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/cosmic_cod_spawns.json",
+      "sha256": "aed14e990ed38ee78214b1ea4a15e06bca1b8d098e1e440596be9ab14e4403b8",
+      "size": 139,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/cosmic_cod_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/crimson_mosquito_spawns.json",
+      "sha256": "104fa9ce71421c5023abba88ce382957828b22341b44c2d03b3300b760482c9d",
+      "size": 785,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/crimson_mosquito_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/crocodile_spawns.json",
+      "sha256": "a73d36d1b5dd75eb20f6143193b991e942f4ef4cef725835b66ec01197d7074f",
+      "size": 1007,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/crocodile_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/crow_spawns.json",
+      "sha256": "cace87b5d504be10d1fff107ad14349066ae1c39d5200a7a29bdd5476167d9b8",
+      "size": 5146,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/crow_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/devils_hole_pupfish_spawns.json",
+      "sha256": "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402",
+      "size": 145,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/devils_hole_pupfish_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/dropbear_spawns.json",
+      "sha256": "0fa8f72e4c73805727577a343758cfd39377cbdadebb88b6b2343183053e16cb",
+      "size": 403,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/dropbear_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/elephant_spawns.json",
+      "sha256": "cac271d780a6ed65db7b22e6944b6d456805d72b309865d6293ad6aa4f60c3e2",
+      "size": 1163,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/elephant_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/emu_spawns.json",
+      "sha256": "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851",
+      "size": 1661,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/emu_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/endergrade_spawns.json",
+      "sha256": "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980",
+      "size": 250,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/endergrade_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/enderiophage_spawns.json",
+      "sha256": "846748f4f352dead7fae39221d653713b7cbd775eaf10f80e0dea86f4e9ccb9a",
+      "size": 603,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/enderiophage_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/farseer.json",
+      "sha256": "c245528d844458d8ac416572ee0df7575bb23d58beb07367d4cd55c66fec9000",
+      "size": 266,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/farseer.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/flutter_spawns.json",
+      "sha256": "f729be2a0bc7bccc88cde40464f990d6074bfcf52a0d1d6719d8ebcd63c496ff",
+      "size": 147,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/flutter_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/flying_fish_spawns.json",
+      "sha256": "69904b309696b6081cdec1ea87bdb62f84886cf6dac600a8bca231860c3a3f2f",
+      "size": 716,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/flying_fish_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/fly_spawns.json",
+      "sha256": "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402",
+      "size": 145,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/fly_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/frilled_shark_spawns.json",
+      "sha256": "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f",
+      "size": 146,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/frilled_shark_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/froststalker_spawns.json",
+      "sha256": "2cc43cdc9df3b20cc2eeb75a3c11736558f544571640607d08dec5c0a939c02d",
+      "size": 934,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/froststalker_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/gazelle_spawns.json",
+      "sha256": "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0",
+      "size": 1050,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/gazelle_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/gelada_monkey_spawns.json",
+      "sha256": "cdd0380bfa9b754856150966a042f807ac48d2f9409f4f2b543be19e87f4c41f",
+      "size": 1001,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/gelada_monkey_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/giant_squid_spawns.json",
+      "sha256": "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f",
+      "size": 146,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/giant_squid_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/gorilla_spawns.json",
+      "sha256": "8c90151f66a632b01e7b8f6998f72618720aae5362c1df0bdd7fefdb13cc20c8",
+      "size": 1053,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/gorilla_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/grizzly_bear_spawns.json",
+      "sha256": "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644",
+      "size": 4020,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/grizzly_bear_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/guster_spawns.json",
+      "sha256": "263974f58a4b48df633648246820681745da9f9e16f30fefe6e07f576251dfb1",
+      "size": 1132,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/guster_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/hammerhead_shark_spawns.json",
+      "sha256": "a5eeb1a3843a12ef4fde1d8a3a5f13161034457c0901d3f938aa71a20e6712f3",
+      "size": 254,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/hammerhead_shark_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/hummingbird_spawns.json",
+      "sha256": "6aa305d47ca32364d445c04c8a20da36a7ccef97955c27e834d4114604d2785d",
+      "size": 3029,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/hummingbird_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/jerboa_spawns.json",
+      "sha256": "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124",
+      "size": 1252,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/jerboa_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/kangaroo_spawns.json",
+      "sha256": "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851",
+      "size": 1661,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/kangaroo_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/komodo_dragon_spawns.json",
+      "sha256": "695a3eb4d61a8208cc634871c237b0e6efc980ac668793f4686848e32cda0907",
+      "size": 775,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/komodo_dragon_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/laviathan_spawns.json",
+      "sha256": "07d0215377f12f1299ec46b6277426c3cf957aa1d310c97fa943cdf5ace8d260",
+      "size": 142,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/laviathan_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/leafcutter_anthill_spawns.json",
+      "sha256": "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
+      "size": 1166,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/leafcutter_anthill_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/lobster_spawns.json",
+      "sha256": "bb0c918e8dbd4d003417a1bcabb38b8433d1f9be95fe6f8feef95d30616b49a7",
+      "size": 398,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/lobster_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/maned_wolf_spawns.json",
+      "sha256": "8483d96341369b430ff2ebfebd7562b0c58c40b96be541cc88189fc696606a0d",
+      "size": 1037,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/maned_wolf_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/mantis_shrimp_spawns.json",
+      "sha256": "4f6099fe4d9f99530f9f0f9bae7e55c0713506efdc47da69d227ae62137647e4",
+      "size": 385,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/mantis_shrimp_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/mimicube_spawns.json",
+      "sha256": "fcace6e8c558df6eb13827f7a2b4a7f43c9fdfd3015331bd7e277329ca034c34",
+      "size": 365,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/mimicube_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/mimic_octopus_spawns.json",
+      "sha256": "9c68a433ab6f75ff9e8d46868480158e4c1f46949779cb0b0d973f7759dbfc2d",
+      "size": 373,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/mimic_octopus_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/moose_spawns.json",
+      "sha256": "abac051da2458ec848604b66a6d7889f7c715060bb9706c1d1822155127d096c",
+      "size": 2291,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/moose_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/mudskipper_spawns.json",
+      "sha256": "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753",
+      "size": 291,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/mudskipper_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/mungus_spawns.json",
+      "sha256": "5d5a9d2039b6df546b788f62cb376cc29312a7115a5553541652aad7259436a6",
+      "size": 486,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/mungus_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/murmur.json",
+      "sha256": "973b8ebc19fa04e02b050f28359ee6bffbae93367f49ecac10892f4a2c1dad7d",
+      "size": 2200,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/murmur.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/orca_spawns.json",
+      "sha256": "2e62ae273c3488a294068e5ed737dbf08791f4758cd3659308824d7bf4ece377",
+      "size": 255,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/orca_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/platypus_spawns.json",
+      "sha256": "b96f9e44f59f54b67460784fb1fdfa06d053f9ca9abb4fc3b04f222fd65ee958",
+      "size": 625,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/platypus_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/potoo_spawns.json",
+      "sha256": "59c5832a40ef0e7212a4d499862f931a5dfcd3ff6d68598153f1274191b0939d",
+      "size": 148,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/potoo_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/raccoon_spawns.json",
+      "sha256": "2f353aa8720d03fbdef9d9e4932ecc4435b7923bbc72191fab6f46acb66d3a12",
+      "size": 3712,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/raccoon_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/rain_frog_spawns.json",
+      "sha256": "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124",
+      "size": 1252,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/rain_frog_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/rattlesnake_spawns.json",
+      "sha256": "b8662bb3de9e2e5cc4af3773700fe6446c389980a80f6350f99d51f3fa2cef39",
+      "size": 1646,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/rattlesnake_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/rhinoceros_spawns.json",
+      "sha256": "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0",
+      "size": 1050,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/rhinoceros_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/roadrunner_spawns.json",
+      "sha256": "b8662bb3de9e2e5cc4af3773700fe6446c389980a80f6350f99d51f3fa2cef39",
+      "size": 1646,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/roadrunner_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/rocky_roller_spawns.json",
+      "sha256": "98dc351abc061685560adc82bd3ffa6e4c87d4faab81e9bb6a9e2a6f07cdb177",
+      "size": 673,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/rocky_roller_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/seagull_spawns.json",
+      "sha256": "4dca182ebef46ea0076b8e8066add18f69527cf2f81da83e77e0409127c92dc4",
+      "size": 1296,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/seagull_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/seal_spawns.json",
+      "sha256": "ef706c1e2ba0b9356523f8aeb3679303ab98d85c9b761d0e55962e930be4d8e6",
+      "size": 877,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/seal_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/shoebill_spawns.json",
+      "sha256": "0d8683c0a1b8176d4e89f88c4f3b1e6fbf6b269781497a190749904c7323eeec",
+      "size": 623,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/shoebill_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/skelewag_spawns.json",
+      "sha256": "86aad88d05c283679e85900cab1bf3977d496849005ac068a14e40b93db35aa2",
+      "size": 374,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/skelewag_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/skreecher.json",
+      "sha256": "f812e719afb24421c6853dacf4d1f66864305e335cfdf6193613d7c408ecab30",
+      "size": 276,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/skreecher.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/skunk_spawns.json",
+      "sha256": "01cc2eb4d92ba30b7301b9325a353cd96c5c7ff263c348795bfb34698cf8f11b",
+      "size": 2037,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/skunk_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/snow_leopard_spawns.json",
+      "sha256": "fdf546af7c7ff2307d0862c0802450eef1e99554af3a340e7a6af69fa5785ea5",
+      "size": 1808,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/snow_leopard_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/soul_vulture_spawns.json",
+      "sha256": "45407796e49769550eef92fd3953daa191c85aaf032fb2be32fe591b0199a172",
+      "size": 523,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/soul_vulture_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/spectre_spawns.json",
+      "sha256": "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980",
+      "size": 250,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/spectre_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/straddler_spawns.json",
+      "sha256": "5ee746cf50b358048a0243e4c45997285cf4a9b736758d388ad730d4ed493900",
+      "size": 664,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/straddler_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/stradpole_spawns.json",
+      "sha256": "5ee746cf50b358048a0243e4c45997285cf4a9b736758d388ad730d4ed493900",
+      "size": 664,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/stradpole_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/sugar_glider_spawns.json",
+      "sha256": "cec5208e2e9f12aa8ce13d0f6d34a18500a77d143441c9b511df21c623fe368f",
+      "size": 418,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/sugar_glider_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/sunbird_spawns.json",
+      "sha256": "7b82ff39e191bd213cd8ecf06ff9a78c4658e6f6b9d8b48a4fcc4017e7268cb5",
+      "size": 3925,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/sunbird_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/tarantula_hawk_spawns.json",
+      "sha256": "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124",
+      "size": 1252,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/tarantula_hawk_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/tasmanian_devil_spawns.json",
+      "sha256": "40c769365424d492a4c17700bb8cfac4c8ce7fac2bc16728f0c4287e3a043130",
+      "size": 1908,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/tasmanian_devil_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/terrapin_spawns.json",
+      "sha256": "b96f9e44f59f54b67460784fb1fdfa06d053f9ca9abb4fc3b04f222fd65ee958",
+      "size": 625,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/terrapin_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/tiger_spawns.json",
+      "sha256": "f88fc1b519759fe41347afca59030619365e173c577e8c1adfcb88777078d066",
+      "size": 1209,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/tiger_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/toucan_spawns.json",
+      "sha256": "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
+      "size": 1166,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/toucan_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/triops_spawns.json",
+      "sha256": "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124",
+      "size": 1252,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/triops_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/tusklin_spawns.json",
+      "sha256": "9ab4772704660c679ea30dff2db2c1272843e00675e2a7e610adcc6486120c3c",
+      "size": 882,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/tusklin_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/underminer.json",
+      "sha256": "97a67afb52f1398f2c55e2a74001e5b893394e28d3f0eb00695f049bdd19f204",
+      "size": 2085,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/underminer.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/void_worm_spawns.json",
+      "sha256": "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273",
+      "size": 18,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/void_worm_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/warped_mosco_spawns.json",
+      "sha256": "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273",
+      "size": 18,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/warped_mosco_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/alexsmobs/warped_toad_spawns.json",
+      "sha256": "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8",
+      "size": 661,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/alexsmobs/warped_toad_spawns.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/citadel-common.toml",
+      "sha256": "3fcd8013137a86c00953d4be1e56945b84b87594be722bbf3b3be8d752e2577f",
+      "size": 648,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/citadel-common.toml",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/create-client.toml",
+      "sha256": "7c40bc004ba478b13d0c99c2b644e50cf3a1d2d60d9b40df15822da8d8ad710c",
+      "size": 4397,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/create-client.toml",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/create-common.toml",
+      "sha256": "36a4d9f5da68f6801b83ce0c4a1a8805fbeffb0dd997f2d405465d7774522296",
+      "size": 157,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/create-common.toml",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/curios-client.toml",
+      "sha256": "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc",
+      "size": 706,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/curios-client.toml",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/curios-common.toml",
+      "sha256": "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea",
+      "size": 161,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/curios-common.toml",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/embeddium-fingerprint.json",
+      "sha256": "cc5adff31929243a6e3f084042812777e4049171d020f0e12cfb85cfefcfc72c",
+      "size": 427,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/embeddium-fingerprint.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/embeddium-mixins.properties",
+      "sha256": "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619",
+      "size": 269,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/embeddium-mixins.properties",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/embeddium-options.json",
+      "sha256": "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d",
+      "size": 852,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/embeddium-options.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/flywheel-client.toml",
+      "sha256": "91830a62c24898b197ea5a244924e8b9388bd72c50e4ba4e91efa21264168716",
+      "size": 623,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/flywheel-client.toml",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/fml.toml",
+      "sha256": "506f0c4c714bf1528d45ab8202f303bde6ba5f9e53778c92a679efbc185afb12",
+      "size": 1148,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/fml.toml",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/forge-client.toml",
+      "sha256": "0b1b3c45343435184c9dde3149b38afcdb97953e287686ecda54385f53ebcddc",
+      "size": 1628,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/forge-client.toml",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/jade/hide-blocks.json",
+      "sha256": "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b",
+      "size": 191,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/jade/hide-blocks.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/jade/hide-entities.json",
+      "sha256": "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3",
+      "size": 325,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/jade/hide-entities.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/jade/jade.json",
+      "sha256": "8a9c0403b385ca106d0c0b541ea2f2128bf39e3f9b05b342b176ca11834857a4",
+      "size": 974,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/jade/jade.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/jade/plugins.json",
+      "sha256": "81a757f50d72e1b9740cad92db6f045364c204ce4d9283b9c6b9cb88e685342e",
+      "size": 1757,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/jade/plugins.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/jade/sort-order.json",
+      "sha256": "c79d06f5a0159b3d9dc3278be946837ab1525e5977ccebe4170654e21cfcf80e",
+      "size": 1568,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/jade/sort-order.json",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/oculus.properties",
+      "sha256": "946979bcd01eb5a99eaea37c5e6a3ca6f87640e704e96f0de16153280b1187d1",
+      "size": 254,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/oculus.properties",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/ponder-client.toml",
+      "sha256": "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8",
+      "size": 619,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/ponder-client.toml",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "config",
+      "path": "config/waystones-common.toml",
+      "sha256": "4cf1d13d8827bcdce75acadb1f3ea24732fd6fa6575ec8a261a37b21c481674d",
+      "size": 6956,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/config/waystones-common.toml",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "sha256": "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
+      "size": 26350793,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_alexsmobs-1.22.9.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/AmbientSounds_FORGE_v6.3.11_mc1.20.1.jar",
+      "sha256": "63a4ea6ea11fa63982325306ae09268080c296633b6bfbf72dbd7c8514d4f114",
+      "size": 53432741,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_AmbientSounds_FORGE_v6.3.11_mc1.20.1.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/balm-forge-1.20.1-7.3.44.jar",
+      "sha256": "ad11d968770bb1ce73377626b6f1dcd4ae6f8be1ef6f37cee9b872b8176aebd3",
+      "size": 561741,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_balm-forge-1.20.1-7.3.44.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/citadel-2.6.3-1.20.1.jar",
+      "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce",
+      "size": 3185275,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_citadel-2.6.3-1.20.1.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/create-1.20.1-6.0.8.jar",
+      "sha256": "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0",
+      "size": 19170905,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_create-1.20.1-6.0.8.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "sha256": "936de62489c0d6fbe74202486cbe2b191b8629b02bab1d480acfdb03690f33f4",
+      "size": 1144290,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/curios-forge-5.14.1\u002B1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+      "size": 398066,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_curios-forge-5.14.1_1.20.1.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/embeddium-0.3.31\u002Bmc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "size": 1320675,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_embeddium-0.3.31_mc1.20.1.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/Jade-1.20.1-Forge-11.13.3.jar",
+      "sha256": "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4",
+      "size": 553487,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_Jade-1.20.1-Forge-11.13.3.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/jei-1.20.1-forge-15.56.0.205.jar",
+      "sha256": "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c",
+      "size": 1778129,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_jei-1.20.1-forge-15.56.0.205.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+      "size": 2851119,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_oculus-mc1.20.1-1.8.0.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "mod",
+      "path": "mods/waystones-forge-1.20.1-14.1.21.jar",
+      "sha256": "fd6fe3c645328ea7be5bc6723d02c881e34650e0cbd4527ba59e42fa4cbe3c80",
+      "size": 536782,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/mods_waystones-forge-1.20.1-14.1.21.jar",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "options",
+      "path": "options.txt",
+      "sha256": "d532b4c749f10b915169c6caea40f874e499e66b7970be348e9a22df64519faf",
+      "size": 5965,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://raw.githubusercontent.com/pabloramiirezz/LosAutistas-Pack/main/packs/pruebaso/prueba1/files/options.txt",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "firstInstallOnly"
+    },
+    {
+      "type": "resourcepack",
+      "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+      "sha256": "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7",
+      "size": 321871,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/resourcepacks_-1.21.2_Fresh_Moves_v3.1__With_Animated_Eyes_.zip",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "resourcepack",
+      "path": "resourcepacks/Bulkier Tools.zip",
+      "sha256": "ee018aeec0aac55abc1e64109cf01b05c0ec5effbe3f65bed87e06cd429f8e50",
+      "size": 881707,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/resourcepacks_Bulkier_Tools.zip",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "shaderpack",
+      "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+      "sha256": "fed6c879e732cf7fc7bc6570ebb1def43235aa7e96f62859fbdbdbfa0b484b38",
+      "size": 553397,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/shaderpacks_ComplementaryReimagined_r5.9.3.zip",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    },
+    {
+      "type": "shaderpack",
+      "path": "shaderpacks/ComplementaryUnbound_r5.9.3.zip",
+      "sha256": "98ac741dee294d2a3c82d153349148c3bb7fb688c30eb3b49c3b9ac37e968c5a",
+      "size": 553400,
+      "optional": false,
+      "source": {
+        "kind": "direct",
+        "url": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-95736e63c337c09b0cfa/shaderpacks_ComplementaryUnbound_r5.9.3.zip",
+        "projectId": "",
+        "fileId": ""
+      },
+      "syncMode": "always"
+    }
+  ]
+}
