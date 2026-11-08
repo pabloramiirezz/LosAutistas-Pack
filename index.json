@@ -1,0 +1,15 @@
+{
+  "packs": [
+    {
+      "packId": "pruebaso",
+      "packName": "Los Autistas Navidad 2.0",
+      "recommendedVersion": "prueba1",
+      "versions": [
+        {
+          "version": "prueba1",
+          "manifest": "packs/pruebaso/prueba1/manifest.json"
+        }
+      ]
+    }
+  ]
+}
