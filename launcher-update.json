@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1",
-  "displayVersion": "prueba portatil1",
-  "downloadUrl": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-2f8faadc021423a18217/Instalador.Los.Autistas.exe",
-  "sha256": "4f5fdf96f24de72087c068bc13a0f3c1a9917c33cc1e28d4cd0a1e8ef7901110",
-  "notes": "probar en portatil tt"
+  "version": "1.3.7",
+  "displayVersion": "Beta 1.3.7 portatil 2da version",
+  "downloadUrl": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/launcher-v1.3.7/Instalador%20Los%20Autistas.exe",
+  "sha256": "72ed05c097c3cd9491e79a138c45e4b86c2a874ba07d104adb902815a14e4e4c",
+  "notes": "2daversionportatil"
 }
