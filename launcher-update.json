@@ -1,7 +1,7 @@
 {
-  "version": "0.0.6",
-  "displayVersion": "Beta 0.0.6 p",
-  "downloadUrl": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-64011c97c250bc146226/Instalador.Los.Autistas.exe",
-  "sha256": "98c4192d936f9a303ae0440fd5459253d50929fb72cd8361192ab382f7f0a797",
-  "notes": "ya mas estable"
+  "version": "0.0.7",
+  "displayVersion": "Beta 0.0.7",
+  "downloadUrl": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/untagged-f3991e447a0fbc9535bd/Instalador.Los.Autistas.exe",
+  "sha256": "04c3edc3c578b0eab51d2e43ae635575705676cf964f75222ce3960bb6ddb4a3",
+  "notes": "Barra verde de verificaci\u00F3n, detecci\u00F3n mejorada de CurseForge, colores de acciones y progreso actualizado."
 }
