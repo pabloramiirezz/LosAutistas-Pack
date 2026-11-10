@@ -1,7 +1,8 @@
 {
-  "version": "0.0.20",
-  "displayVersion": "Beta 0.0.20",
-  "downloadUrl": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/launcher-v0.0.20/Instalador.Los.Autistas.exe",
-  "sha256": "0236752b38f1f10c75f4e76f147eab248d3482a05eb54d9c20f1c643949544b9",
-  "notes": "mas arreglos"
+  "version": "0.0.24",
+  "displayVersion": "Beta 0.0.24",
+  "downloadUrl": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/launcher-v0.0.24/Instalador.Los.Autistas.exe",
+  "sha256": "a41600220f665181c3fb3478bdbf552fe1ac1c24d8129ef4f7fdc14eed25f462",
+  "notes": "envios de craseo a discord\r\ninicio sesion de microsoft\r\najustes cambiados\r\ndise\u00F1o nuevo",
+  "publishedAt": "2026-11-10T16:12:45.3117352+00:00"
 }
