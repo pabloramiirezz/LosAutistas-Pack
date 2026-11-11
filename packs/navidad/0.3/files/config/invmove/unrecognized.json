@@ -1,0 +1,12 @@
+{
+  "allowMovement": {
+    "dev.dyslexic.cinematic.client.SceneScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "dev.emi.emi.screen.BoMScreen": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true
+  },
+  "hideBackground": {
+    "dev.emi.emi.screen.RecipeScreen": true
+  }
+}
