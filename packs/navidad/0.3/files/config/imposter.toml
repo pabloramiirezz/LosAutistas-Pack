@@ -1,0 +1,213 @@
+
+[legacyBehavior]
+	#Копировать броню игрока. false также снимает ранее скопированную броню с загруженных импостеров.
+	copyArmor = true
+	#Независимый шанс PRE_ATTACK за одну проверку: 0 = отключить, 1 = всегда.
+	#Не зависит от взгляда, агрессии и обычного spawnChance. Не прерывает погоню, катсцену и её кулдаун.
+	#Range: 0.0 ~ 1.0
+	preAttackChance = 0.05
+	#Интервал проверки PRE_ATTACK в тиках. 600 = 30 секунд.
+	#Range: 20 ~ 72000
+	preAttackCheckIntervalTicks = 600
+	#Шанс обычного появления за проверку, как в версии 2.0.0 (50/1000). 0 отключает обычный спавн.
+	#Range: 0.0 ~ 1.0
+	spawnChance = 0.05
+	#Range: 20 ~ 72000
+	spawnCheckIntervalTicks = 600
+	#Range: 4 ~ 128
+	spawnMinDistance = 8
+	#Range: 4 ~ 256
+	spawnMaxDistance = 16
+	#Range: 2 ~ 100
+	maxMiningDistance = 30
+	#Range: 0.1 ~ 5.0
+	miningSpeedMultiplier = 1.0
+	canBreakStone = true
+	canBreakDirt = true
+	canBreakWood = true
+	canBreakOres = false
+	cancelMobTargeting = true
+	allowImposterMounting = false
+	canUseFishingRod = true
+	#Range: 20 ~ 12000
+	fishingRodCooldownTicks = 100
+	#Range: 0.0 ~ 2.0
+	fishingRodPullStrength = 0.3
+
+[imposter]
+	# Шанс (0.0 - 1.0), что Imposter реально появится при каждой периодической
+	# проверке кастомного спавна (см. ImposterCustomSpawnProcedure, проверка идёт
+	# каждые 200 тиков / 10 секунд). 0.0 = автоматический спавн полностью отключён
+	# (Imposter появляется только вручную - команда/яйцо спавна), 1.0 = спавнится
+	# при первой же проверке, как только это возможно (валидное место + путь до игрока).
+	#Range: 0.0 ~ 1.0
+	spawnRate = 0.35
+	# Максимальное здоровье Imposter.
+	#Range: 1.0 ~ 1024.0
+	health = 20.0
+	# Урон, наносимый Imposter в ближнем бою.
+	#Range: 0.0 ~ 128.0
+	attackDamage = 3.0
+	# Скорость передвижения Imposter (0.4 - быстрее обычного зомби).
+	#Range: 0.0 ~ 2.0
+	movementSpeed = 0.40000001192092893
+	#Минимальная дистанция начального спавна Imposter в одиночном режиме.
+	#Range: 8.0 ~ 256.0
+	singleplayerSpawnMinDistance = 64.0
+	#Максимальная дистанция начального спавна Imposter в одиночном режиме.
+	#Range: 8.0 ~ 256.0
+	singleplayerSpawnMaxDistance = 80.0
+	#Количество телепортов/успешных скрытых перемещений для перехода из HIDDEN.
+	#Range: 1 ~ 100
+	hiddenPointsToAdvance = 3
+	#Шанс исчезнуть после того, как Imposter убежал из поля зрения в HIDDEN.
+	#Range: 0.0 ~ 1.0
+	hiddenDespawnChance = 0.35
+	#Кулдаун после сброса фазы HIDDEN.
+	#Range: 0 ~ 72000
+	hiddenCooldownTicks = 2400
+	#Минимальная дистанция Imposter в ACTIVE_STALKING.
+	#Range: 8.0 ~ 256.0
+	activeMinDistance = 48.0
+	#Максимальная дистанция Imposter в ACTIVE_STALKING.
+	#Range: 8.0 ~ 256.0
+	activeMaxDistance = 64.0
+	#Интервал начисления очков агрессии при наблюдении за игроком.
+	#Range: 1 ~ 12000
+	activeAggressionIntervalTicks = 20
+	#Очки агрессии для перехода в PRE_ATTACK. 120 = около двух минут.
+	#Range: 1 ~ 10000
+	activeAggressionToPreAttack = 120
+	#Сколько отдельных обнаружений нужно для сброса ACTIVE_STALKING.
+	#Range: 1 ~ 100
+	activeLooksToReset = 3
+	#Кулдаун после сброса ACTIVE_STALKING.
+	#Range: 0 ~ 72000
+	activeResetCooldownTicks = 2400
+	#Разрешить Imposter прокапываться к игроку в активном сталкинге.
+	activeDiggingEnabled = true
+	#Длительность охоты ATTACK. 1200 = одна минута.
+	#Range: 20 ~ 72000
+	attackDurationTicks = 1200
+	#Сколько тиков добавляется к охоте после каждого удара.
+	#Range: 0 ~ 72000
+	attackHitExtensionTicks = 200
+	#Кулдаун после завершения охоты.
+	#Range: 0 ~ 72000
+	attackCooldownTicks = 2400
+	#Дистанция перехода из PRE_ATTACK в ATTACK.
+	#Range: 1.0 ~ 32.0
+	preAttackTriggerDistance = 8.0
+	#Максимальная дистанция, на которой Imposter распознаёт взгляд игрока.
+	#Range: 16.0 ~ 256.0
+	lookDetectionRange = 96.0
+	#Желаемая дистанция Imposter в фазе HIDDEN.
+	#Range: 8.0 ~ 256.0
+	hiddenDistance = 56.0
+	#Множитель скорости движения Imposter во время атаки.
+	#Range: 0.1 ~ 4.0
+	attackSpeed = 1.45
+	#Дистанция перехода CORNER из укрытия в атаку.
+	#Range: 1.0 ~ 16.0
+	preAttackCornerTriggerDistance = 4.0
+	#Максимальная дистанция запуска кинематографичной атаки при прямой видимости.
+	#Range: 1.0 ~ 8.0
+	cutsceneGrabRange = 2.0
+	#Урон одного удара ножом в кинематографичной атаке. Всего выполняется четыре удара.
+	#Range: 0.0 ~ 20.0
+	cutsceneStabDamage = 2.0
+
+[cutout]
+	# Шанс (0.0 - 1.0), что Cutout реально появится при каждой попытке природного
+	# спавна. НЕ влияет на Cutout, заспавненного через джампскейр/засаду
+	# (CutoutAmbushProcedure / CutoutCornerJumpscareProcedure) - те спавнятся
+	# напрямую по триггеру и всегда срабатывают вне зависимости от этого значения.
+	# По умолчанию низкий, т.к. Cutout не деспавнится сам - лишние природные заспавны
+	# будут копиться в мире навсегда.
+	# У Cutout нет настраиваемых боевых атрибутов - это декорация для джампскейра,
+	# а не полноценный моб.
+	#Range: 0.0 ~ 1.0
+	spawnRate = 0.15
+	# Включить автоматическую "медленную засаду" Cutout вокруг игрока без ручной
+	# команды (см. CutoutAutoTriggerProcedure). false = как раньше, только через
+	# /imposterai cutout ambush. На джампскейр (jumpscareCornerChance ниже) не влияет.
+	autoTriggerEnabled = true
+	# Как часто (в тиках) для каждого игрока перебрасывается шанс на засаду.
+	# 100 тиков = 5 секунд. Влияет на "зернистость" среднего интервала - при равном
+	# autoTriggerChance более частая проверка даёт более частые (в среднем) засады.
+	#Range: 20 ~ 12000
+	autoTriggerCheckIntervalTicks = 100
+	# Шанс (0.0 - 1.0) сработать при каждой проверке (см. autoTriggerCheckIntervalTicks).
+	# Средний интервал между засадами у одного игрока при активном исследовании
+	# мира примерно равен (autoTriggerCheckIntervalTicks / 20 / autoTriggerChance) секунд.
+	# Значение по умолчанию (0.03 при проверке раз в 5 сек) даёт в среднем ~166 секунд
+	# (около 2.5-3 минут) - "редко, но метко". Реальный интервал ещё ограничен снизу
+	# параметром autoTriggerCooldownTicks.
+	#Range: 0.0 ~ 1.0
+	autoTriggerChance = 0.03
+	# Минимальный гарантированный промежуток (в тиках) между двумя автоматическими
+	# срабатываниями (засада ИЛИ джампскейр, они делят один и тот же таймер) у ОДНОГО
+	# И ТОГО ЖЕ игрока, даже если условия для следующего выполнились раньше.
+	# 2400 тиков = 2 минуты. Не даёт скримерам срабатывать друг за другом почти подряд.
+	#Range: 0 ~ 72000
+	autoTriggerCooldownTicks = 2400
+	# Шанс (0.0 - 1.0) джампскейра КАЖДЫЙ РАЗ, когда игрок реально подходит к новому
+	# подходящему углу/повороту (та же геометрия, что и у /imposterai cutout jumpscare).
+	# В отличие от засады (autoTriggerChance), это не проверка по таймеру "наугад" -
+	# геометрия проверяется постоянно, но реально выстрелить может только когда игрок
+	# на самом деле идёт на угол, и не чаще одного раза на один и тот же угол за
+	# один заход. Если игрок уже недавно словил скример (см. autoTriggerCooldownTicks)
+	# или рядом уже есть незамёрзший/замёрзший Cutout от предыдущего джампскейра/засады -
+	# новый джампскейр не сработает, даже если геометрически подходящий угол найден -
+	# два скримера подряд/рядом не нужны. Низкое значение по умолчанию - большинство
+	# углов игрок будет проходить спокойно, лишь изредка что-то вылезет.
+	#Range: 0.0 ~ 1.0
+	jumpscareCornerChance = 0.08
+	# Разрешить Cutout использовать стволы деревьев (BlockTags.LOGS) как "стену"
+	# наравне с обычными блоками - и для засады (выглядывает/прячется из-за дерева),
+	# и для джампскейра (резко выезжает из-за ствола). Листва (BlockTags.LEAVES) как
+	# укрытие по-прежнему не считается ни при true, ни при false - визуально сквозь
+	# неё Cutout выглядел бы криво.
+	allowTreeAnchors = true
+	#Включить автоматические резкие jumpscare Cutout.
+	jumpscareAutoTriggerEnabled = true
+	#Интервал проверки автоматического jumpscare.
+	#Range: 1 ~ 12000
+	jumpscareAutoTriggerIntervalTicks = 20
+	#Шанс jumpscare при обнаружении нового угла.
+	#Range: 0.0 ~ 1.0
+	jumpscareAutoTriggerChance = 0.08
+	#Кулдаун автоматических jumpscare.
+	#Range: 0 ~ 72000
+	jumpscareAutoTriggerCooldownTicks = 2400
+	#Включить автоматические Cutout, появляющиеся за спиной игрока.
+	backAutoTriggerEnabled = true
+	#Интервал проверки появления Cutout за спиной.
+	#Range: 1 ~ 12000
+	backAutoTriggerIntervalTicks = 200
+	#Шанс появления Cutout за спиной при проверке.
+	#Range: 0.0 ~ 1.0
+	backAutoTriggerChance = 0.01
+	#Кулдаун появления Cutout за спиной.
+	#Range: 0 ~ 72000
+	backAutoTriggerCooldownTicks = 6000
+	#Разрешить Cutout изредка приближаться к игроку, когда его никто не видит.
+	proximityMovementEnabled = true
+	#Как часто Cutout проверяет возможность скрытого движения.
+	#Range: 20 ~ 12000
+	proximityMovementIntervalTicks = 200
+	#Шанс движения при проверке.
+	#Range: 0.0 ~ 1.0
+	proximityMovementChance = 0.03
+	#Разрешить Cutout изредка воспроизводить голос назначенного игрока.
+	voiceEnabled = true
+	#Интервал проверки воспроизведения голоса Cutout.
+	#Range: 20 ~ 12000
+	voiceCheckIntervalTicks = 600
+	#Шанс воспроизведения голоса при проверке.
+	#Range: 0.0 ~ 1.0
+	voiceChance = 0.04
+	#Шанс удалить test/ambush Cutout сразу после полного закатывания.
+	#Range: 0.0 ~ 1.0
+	ambushDespawnChance = 0.75
+
