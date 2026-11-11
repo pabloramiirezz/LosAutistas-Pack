@@ -1,9 +1,9 @@
 {
   "packs": [
     {
-      "packId": "navidad",
+      "packId": "navidad2.0",
       "packName": "Los Autistas Navidad 2.0",
-      "recommendedVersion": "2.0",
+      "recommendedVersion": "0.4",
       "versions": [
         {
           "version": "1.0",
@@ -20,6 +20,10 @@
         {
           "version": "2.0",
           "manifest": "packs/navidad/2.0/manifest.json"
+        },
+        {
+          "version": "0.4",
+          "manifest": "packs/navidad2.0/0.4/manifest.json"
         }
       ]
     }
