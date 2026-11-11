@@ -1,8 +1,8 @@
 {
-  "version": "0.0.24",
-  "displayVersion": "Beta 0.0.24",
-  "downloadUrl": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/launcher-v0.0.24/Instalador.Los.Autistas.exe",
-  "sha256": "a41600220f665181c3fb3478bdbf552fe1ac1c24d8129ef4f7fdc14eed25f462",
-  "notes": "envios de craseo a discord\r\ninicio sesion de microsoft\r\najustes cambiados\r\ndise\u00F1o nuevo",
-  "publishedAt": "2026-11-10T16:12:45.3117352+00:00"
+  "version": "0.0.27",
+  "displayVersion": "Beta 0.0.27",
+  "downloadUrl": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/launcher-v0.0.27/Instalador.Los.Autistas.exe",
+  "sha256": "1d4f6e49fcca088ee2cf18ff168f62d3e810bb88d62d418623df457afe441186",
+  "notes": "bloqueo y arreglo para entrar al minecraft",
+  "publishedAt": "2026-11-11T20:46:04.9054071+00:00"
 }
