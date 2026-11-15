@@ -1,8 +1,8 @@
 {
-  "version": "0.0.27",
-  "displayVersion": "Beta 0.0.27",
-  "downloadUrl": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/launcher-v0.0.27/Instalador.Los.Autistas.exe",
-  "sha256": "1d4f6e49fcca088ee2cf18ff168f62d3e810bb88d62d418623df457afe441186",
-  "notes": "bloqueo y arreglo para entrar al minecraft",
-  "publishedAt": "2026-11-11T20:46:04.9054071+00:00"
+  "version": "0.0.38",
+  "displayVersion": "Beta 0.0.38",
+  "downloadUrl": "https://github.com/pabloramiirezz/LosAutistas-Pack/releases/download/launcher-v0.0.38/Instalador.Los.Autistas.exe",
+  "sha256": "d72580bf85a91efd6971fa5b0a71603dbf982dd6dbf9a7f20a5dbe595d9834ba",
+  "notes": "una pila de arreglos",
+  "publishedAt": "2026-11-15T11:48:49.5062039+00:00"
 }
